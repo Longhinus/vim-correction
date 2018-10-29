@@ -730,3 +730,5 @@ Abolish youare	you are
 Abolish youve	you’ve 
 Abolish ytou	you 
 Abolish yuo{,r}	you{}
+Abolish heigth height
+Abolish widht width
